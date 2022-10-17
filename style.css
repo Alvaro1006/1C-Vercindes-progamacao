@@ -12,3 +12,9 @@ p{
     color: black;
     font-size: 25px;
 }
+
+#imagemalpha{
+width: 100%;
+height: 20%;
+border: 2px;
+}
