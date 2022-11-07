@@ -1,6 +1,10 @@
 body{
-    background-color: #7FFFD4;
     text-align: center;
+}
+
+.principal{
+    padding: 30px;
+    background-color: #7FFFD4;
 }
 
 h1{
