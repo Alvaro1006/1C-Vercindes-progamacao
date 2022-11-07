@@ -21,9 +21,22 @@ border: 2px;
 
 .itens{
     font-style: italic;
+    font-size: 25px;
 }
 
 .beneficios{
     background: #7FFFD4;
     text-align: left;
+    font-size: 25px;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin: 3%;
+    list-style: circle;
+    width: 20%;
+    margin-right: 15%;
+
 }
